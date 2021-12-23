@@ -1,8 +1,10 @@
 # HTTP Status codes
 
-![run-tests](https://github.com/wahlemedia/http-status-codes/workflows/tests/badge.svg)
-
-A TypeScript implementations of [JustSteveKing's http-status-codes](https://github.com/JustSteveKing/http-status-code) PHP package. 
+![tests](https://github.com/wahlemedia/http-status-codes/workflows/tests/badge.svg)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/wahlemedia/http-status-codes/tests)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/wahlemedia/http-status-codes)
+  
+A TypeScript implementation of [JustSteveKing's http-status-code](https://github.com/JustSteveKing/http-status-code) PHP package. 
 
 It is a simple class, that return status codes for http responses.
 
