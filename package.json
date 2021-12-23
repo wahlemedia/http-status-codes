@@ -1,5 +1,5 @@
 {
-  "name": "http-status-codes",
+  "name": "@wahlemedia/http-status-codes",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
