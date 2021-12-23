@@ -1,6 +1,6 @@
 # HTTP Status codes
 
-![run-tests](https://github.com/wahlemedia/http-status-code/workflows/run-tests/badge.svg)
+![run-tests](https://github.com/wahlemedia/http-status-codes/workflows/run-tests/badge.svg)
 
 A TypeScript implementations of [JustSteveKing's http-status-codes](https://github.com/JustSteveKing/http-status-code) PHP package. 
 
