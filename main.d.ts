@@ -1,0 +1,1 @@
+declare module '@wahlemedia/http-status-codes'
