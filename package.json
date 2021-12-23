@@ -6,6 +6,18 @@
     "name": "Philipp Wahle",
     "email": "info@wahlemedia.de"
   },
+  "files": [
+    "dist"
+  ],
+  "types": "./src/http.d.ts",
+  "main": "./dist/http-status-codes.umd.js",
+  "module": "./dist/http-status-codes.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/http-status-codes.es.js",
+      "require": "./dist/http-status-codes.umd.js"
+    }
+  },
   "private": false,
   "keywords": [
     "Http Status Codes"
