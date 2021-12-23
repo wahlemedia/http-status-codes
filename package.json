@@ -1,6 +1,6 @@
 {
   "name": "@wahlemedia/http-status-codes",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A TypeScript class, that returns http status codes ",
   "author": {
     "name": "Philipp Wahle",
