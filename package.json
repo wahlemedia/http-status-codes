@@ -1,6 +1,16 @@
 {
   "name": "@wahlemedia/http-status-codes",
   "version": "0.0.0",
+  "description": "A TypeScript class, that returns http status codes ",
+  "author": {
+    "name": "Philipp Wahle",
+    "email": "info@wahlemedia.de"
+  },
+  "private": false,
+  "keywords": [
+    "Http Status Codes"
+  ],
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
